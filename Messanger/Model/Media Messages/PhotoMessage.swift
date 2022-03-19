@@ -1,9 +1,3 @@
-//
-//  PhotoMessage.swift
-//  Messager
-//
-//  Created by David Kababyan on 12/09/2020.
-//
 
 import Foundation
 import MessageKit

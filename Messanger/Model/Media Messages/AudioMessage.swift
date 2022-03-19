@@ -1,9 +1,4 @@
-//
-//  AudioMessage.swift
-//  Messager
-//
-//  Created by David Kababyan on 14/09/2020.
-//
+
 
 import Foundation
 import MessageKit

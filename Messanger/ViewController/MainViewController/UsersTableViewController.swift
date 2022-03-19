@@ -18,7 +18,7 @@ class UsersTableViewController: UITableViewController {
         super.viewDidLoad()
 
         tableView.tableFooterView = UIView()
-       // createDummyUsers()
+        //createDummyUsers()
         
         self.refreshControl = UIRefreshControl()
         self.tableView.refreshControl = self.refreshControl
