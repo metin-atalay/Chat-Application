@@ -57,7 +57,7 @@ class FirebaseUserListener {
         }
     }
     
-    //Mark : resesnd email
+    //Mark : resend email
     
     func resendVerificationEmail(email : String, completion: @escaping (_ error : Error?)->Void){
         Auth.auth().currentUser?.reload(completion: { (error) in
